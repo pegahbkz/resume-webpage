@@ -1,4 +1,4 @@
-# IE_HW1
+# Resume Webpage
 
 ## About This Project
 This project is an implementation of a resume webpage using css and html.
