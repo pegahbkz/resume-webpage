@@ -37,6 +37,3 @@ brew install sass/sass/sass
 
 ## License
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-## Contact
-Pegah Beikzadeh - Student No. 98243012
